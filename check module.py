@@ -4,7 +4,7 @@
 #  > ^ <   ⚠️ Owner of heta.hikariatama.ru doesn't take any responsibilities or intellectual property rights regarding this script
 # ---------------------------------------------------------------------------------
 # Name: CheckMods
-# Author: vsecoder
+# Author: helperModded
 # Commands:
 # .checkmod
 # ---------------------------------------------------------------------------------

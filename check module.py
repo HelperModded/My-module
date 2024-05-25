@@ -1,13 +1,3 @@
-# ---------------------------------------------------------------------------------
-#  /\_/\  🌐 This module was loaded through https://t.me/hikkamods_bot
-# ( o.o )  🔐 Licensed under the Copyleft license.
-#  > ^ <   ⚠️ Owner of heta.hikariatama.ru doesn't take any responsibilities or intellectual property rights regarding this script
-# ---------------------------------------------------------------------------------
-# Name: CheckMods
-# Author: helperModded
-# Commands:
-# .checkmod
-# ---------------------------------------------------------------------------------
 
 """
                                 _             
@@ -23,7 +13,6 @@
 
 import contextlib
 
-# meta developer: @vsecoder_m
 # meta pic: https://img.icons8.com/color/344/antivirus-scanner--v1.png
 # meta banner: https://chojuu.vercel.app/api/banner?img=https://img.icons8.com/color/344/antivirus-scanner--v1.png&title=Check%20module&description=Module%20for%20check%20modules
 
